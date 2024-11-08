@@ -1,0 +1,10 @@
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Assignment2\obj\Debug\Assignment2.Form1.resources
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\phill\OneDrive\Desktop\SODV2101 RAD\Assignment2\obj\Debug\Assignment2.pdb
